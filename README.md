@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I written my name incorrectly
 <img src = "https://github-readme-stats.vercel.app/api?username=kaushik116k&show_icons=true&theme=highcontrast">
 
-<img src = "https://komarev.com/ghpvc/?username=your-github-username&color=green">
+<img src = "https://komarev.com/ghpvc/?username=kaushik116k&color=green">
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=kaushik116k">
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik116k">
