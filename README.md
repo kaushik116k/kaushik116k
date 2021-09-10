@@ -12,6 +12,8 @@
 <img src = "https://komarev.com/ghpvc/?username=your-github-username&color=green">
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=kaushik116k">
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik116k">
+
 ## ✉️ Find me on:
 
 
