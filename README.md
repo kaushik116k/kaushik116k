@@ -7,13 +7,19 @@
 - 💬 Ask me about android studio
 - 📫 How to reach me: gmail - kaushik116k@gmail.com
 - ⚡ Fun fact: I written my name incorrectly
-<img src = "https://github-readme-stats.vercel.app/api?username=kaushik116k&show_icons=true&theme=highcontrast">
 
-<img src = "https://komarev.com/ghpvc/?username=kaushik116k&color=green">
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=kaushik116k">
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik116k">
-
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=kaushik116k&show_icons=true&theme=highcontrast">
+  </p>
+<p align="center">
+  <img src = "https://komarev.com/ghpvc/?username=kaushik116k&color=green">
+  </p>
+ <p align="center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=kaushik116k">
+  </p>
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik116k">
+</p>
 ## ✉️ Find me on:
 
 
