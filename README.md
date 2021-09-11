@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! this is kaushik 👋
 
 - 🔭 I’m currently working on android app development
 - 🌱 I’m currently learning java
