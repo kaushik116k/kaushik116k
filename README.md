@@ -20,17 +20,19 @@
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik116k">
 </p>
-## ✉️ Find me on:
-
+### Trying to get in touch? 📞
 
 <p align="center">
-  <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  <a href="mailto:kaushik116k@gmail.com">
+    <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg" style="vertical-align:top margin:6px 4px"/>
+  </a>
+
+  <a href="https://www.instagram.com/kaushik116k2019/">
+    <img alt="Instagram" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/instagram.svg" style="vertical-align:top margin:6px 4px"/>
+  </a>
 </p>
 
-<br />
+---
 
 ## 🧰 Languages and Tools:
 <p align="center">
