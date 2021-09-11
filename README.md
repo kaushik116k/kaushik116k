@@ -18,7 +18,7 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=kaushik116k">
   </p>
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik116k">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik116k&layout=compact">
 </p>
 
 ## 📞 Try to get in touch? 
