@@ -20,8 +20,8 @@
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik116k">
 </p>
-### Trying to get in touch? 📞
 
+## 📞 Try to get in touch? 
 <p align="center">
   <a href="mailto:kaushik116k@gmail.com">
     <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg" style="vertical-align:top margin:6px 4px"/>
@@ -32,7 +32,6 @@
   </a>
 </p>
 
----
 
 ## 🧰 Languages and Tools:
 <p align="center">
