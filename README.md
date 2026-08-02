@@ -132,7 +132,6 @@ https://github.com/kaushik116k/flutter_forge
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/kaushik116k
-- LinkedIn: *(Add your LinkedIn here)*
 - Email: **kaushik116k@gmail.com**
 
 ---
