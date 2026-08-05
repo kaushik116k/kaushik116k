@@ -120,14 +120,6 @@ A Python application that detects vehicle license plates using computer vision t
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kaushik116k&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kaushik116k&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik116k&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 📈 Contribution Graph
